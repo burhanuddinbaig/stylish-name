@@ -7,7 +7,7 @@ Stylish Name is a web application built with Flask that allows users to change t
 - Easy-to-use interface
 - Multiple font options
 - Real-time font preview
-- Copy styled text to clipboard
+- Copy styled text to the clipboard
 
 ## Getting Started
 
@@ -17,7 +17,7 @@ Follow these instructions to get a copy of the project up and running on your lo
 
 Make sure you have the following installed:
 
-- Python 3.x
+- Python 3.11
 - Flask
 
 ### Installation
@@ -65,7 +65,10 @@ Make sure you have the following installed:
 
 ## Contributing
 
-Contributions are welcome! Please feel free to submit a Pull Request.
+In-house Project of Boreal Sol tech.
+
+### Branching Convention
+STY-### <feature/user story name>
 
 ## License
 
@@ -75,8 +78,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - Font Awesome for the font styles
 - Flask for the web framework
-- [Your Inspiration Sources]
 
----
 
 Feel free to customize this `README.md` further to match your project's specifics and personal preferences.
