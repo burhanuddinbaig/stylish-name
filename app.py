@@ -20,7 +20,6 @@ def post_data():
     data = request.get_json()
     if 'text' in data:
         text = data['text']
-        fonts_directory = "E:\\fonts_directory"
         font_data = process_fonts(fonts_dir, text)
         response = {'text': text, 'data': font_data}
     else:
